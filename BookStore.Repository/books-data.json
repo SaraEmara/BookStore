@@ -1,0 +1,34 @@
+[
+	{
+		title: "DotNetNuke 5.4 Cookbook",
+		subtitle: "Over 100 recipes for installing, configuring, and customizing your own website with the DotNetNuke CMS",
+		isbn13: "9781849511681",
+		price: "$26.99",
+		image: "https://itbook.store/img/books/9781849511681.png",
+		url: "https://itbook.store/books/9781849511681"
+	},
+	{
+		title: "Professional DotNetNuke 5",
+		subtitle: "Open Source Web Application Framework for ASP.NET",
+		isbn13: "9780470438701",
+		price: "$3.99",
+		image: "https://itbook.store/img/books/9780470438701.png",
+		url: "https://itbook.store/books/9780470438701"
+	},
+	{
+		title: "DotNetNuke For Dummies",
+		subtitle: "",
+		isbn13: "9780471798439",
+		price: "$7.72",
+		image: "https://itbook.store/img/books/9780471798439.png",
+		url: "https://itbook.store/books/9780471798439"
+	},
+	{
+		title: "Beginning Hybrid Mobile Application Development",
+		subtitle: "",
+		isbn13: "9781484213155",
+		price: "$39.98",
+		image: "https://itbook.store/img/books/9781484213155.png",
+		url: "https://itbook.store/books/9781484213155"
+	}
+]
